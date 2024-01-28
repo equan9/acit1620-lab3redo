@@ -66,6 +66,12 @@ a:hover {
     color: #fff;
   }
 
+.content p {
+    display: table;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
 .img {
     height: 10rem;
     float: left;
